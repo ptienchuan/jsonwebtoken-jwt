@@ -53,7 +53,7 @@ In this demo, I'll use JWT only. I won't mention to why JWT is safe or what is J
 ## How the API works?
 1. [Overview: data, server.](https://github.com/ptienchuan/nodejs-jsonwebtoken-restfull-api/wiki/Overview:-data,-server)
 
-2. Authenticate and create token.
+2. [Authenticate and create token.](https://github.com/ptienchuan/nodejs-jsonwebtoken-restfull-api/wiki/Authenticate-and-create-token)
 
 3. Verify the token in request.
 
