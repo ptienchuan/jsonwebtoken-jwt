@@ -1,4 +1,5 @@
-# Build a Nodejs RESTfull API uses jsonwebtoken(JWT) to show you how JWT works
+# How jsonwebtoken(JWT) works
+# Build a Nodejs RESTfull API uses jsonwebtoken(JWT)
 ![Image](https://raw.githubusercontent.com/ptienchuan/nodejs-jsonwebtoken-restfull-api/master/nodejs-jwt.png)
 
 ## Packages
@@ -42,7 +43,7 @@ I'll build a simple Nodejs RESTfull API:
 
 2. How can I solve that matter?
 
-    * when user signed in, we'll create a token from the user account by JWT and send the token back.
+    * When user signed in, we'll create a token from the user account by JWT and send the token back.
 
     * For each request, we'll get the token from headers, and encode this token to know who is sending the request.
 
@@ -50,10 +51,10 @@ I'll build a simple Nodejs RESTfull API:
 In this demo, I'll use JWT only. I won't mention to why JWT is safe or what is JWT or JWT's structure ...
     
 ## How the API works?
-1. Data and API Server
+1. [Overview: data, server.](https://github.com/ptienchuan/nodejs-jsonwebtoken-restfull-api/wiki/Overview:-data,-server)
 
-2. Authenticate and create token
+2. Authenticate and create token.
 
-3. Verify the token in request
+3. Verify the token in request.
 
-4. Access to CRUD process
+4. Access to CRUD process.
