@@ -15,7 +15,7 @@ I'll build a simple Nodejs RESTfull API:
     |
     ├── router
     │   ├── postRouter.js      # router to hande CRUD posts
-    │   └── tokenRouter.js     # router to hande get token
+    │   └── tokenRouter.js     # router to hande authenticate and create token
     |
     ├── app.js                 # server
     |
