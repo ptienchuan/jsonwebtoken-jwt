@@ -23,7 +23,7 @@ I'll build a simple Nodejs RESTfull API:
 ## How to run the API?
 1. Clone source code by git:
 
-    `$ git clone https://github.com/ptienchuan/nodejs-jsonwebtoken-restfull-api.git`
+    `$ git clone https://github.com/ptienchuan/jsonwebtoken-jwt.git`
 2. Using npm installs packages:
 
     `$ npm install`
