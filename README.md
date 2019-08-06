@@ -1,4 +1,3 @@
-# How jsonwebtoken(JWT) works
 # Build a Nodejs RESTfull API uses jsonwebtoken(JWT)
 ![Image](https://raw.githubusercontent.com/ptienchuan/nodejs-jsonwebtoken-restfull-api/master/nodejs-jwt.png)
 
